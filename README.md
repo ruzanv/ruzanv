@@ -37,7 +37,7 @@ Building testing processes, managing a testing team on a project.
 - ruzzanv@gmail.com
 
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
-- @ruzzanv
+- [@ruzzanv](https://t.me/ruzzanv)
 
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)
 - [LinkedIn](https://www.linkedin.com/in/ruzanv/)

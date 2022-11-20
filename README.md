@@ -22,5 +22,8 @@ I am currently working as a QA Engineer at VK. In parallel with this, I study Py
 ![Testrail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy)
 
-
-My work experience
+## Experience
+- Feb. 2022 - Present.
+QA Engineer at VK. Frontend and backend testing of web applications, mobile applications and hybrid desktop applications. Ensuring product quality by improving team processes, introducing new tools and improving the quality of releases.
+- Apr. 2018 - Aug. 2019. QA Engineer and Head of QA at GAMBIT. Ensuring the quality of a multiplayer online project in the game and its web part. 
+Building testing processes, managing a testing team on a project.

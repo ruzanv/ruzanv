@@ -27,3 +27,14 @@ I am currently working as a QA Engineer at VK. In parallel with this, I study Py
 QA Engineer at VK. Frontend and backend testing of web applications, mobile applications and hybrid desktop applications. Ensuring product quality by improving team processes, introducing new tools and improving the quality of releases.
 - Apr. 2018 - Aug. 2019. QA Engineer and Head of QA at GAMBIT. Ensuring the quality of a multiplayer online project in the game and its web part. 
 Building testing processes, managing a testing team on a project.
+## My CV
+- [CV_on_Russian]()
+- [CV_on_English]()
+## Contacts
+![GoogleMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail)
+- ruzzanv@gmail.com
+
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+- @ruzzanv
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruzanv/)

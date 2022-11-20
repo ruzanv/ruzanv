@@ -30,11 +30,14 @@ Building testing processes, managing a testing team on a project.
 ## My CV
 - [CV_on_Russian]()
 - [CV_on_English]()
+
 ## Contacts
+
 ![GoogleMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail)
 - ruzzanv@gmail.com
 
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 - @ruzzanv
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruzanv/)
+![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)
+- [LinkedIn](https://www.linkedin.com/in/ruzanv/)

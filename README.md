@@ -1,4 +1,4 @@
-![Header](https://github.com/ruzanv/ruzanv/blob/master/assets/logotypeGIT2.png)
+![Header](https://github.com/ruzanv/ruzanv/blob/master/assets/logotypeGIT3.png)
 
 About me
 

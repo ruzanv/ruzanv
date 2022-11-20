@@ -19,7 +19,6 @@ I am currently working as a QA Engineer at VK. In parallel with this, I study Py
 ![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana)
-![Kibana](https://img.shields.io/badge/-Kibana-090909?style=for-the-badge&logo=kibana)
 ![Testrail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy)
 

@@ -43,4 +43,4 @@ Building testing processes, managing a testing team on a project.
 - [ruzanv](https://www.linkedin.com/in/ruzanv/)
 
 ## Stats
-[![ruzanv GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzanv&show_icons=true&count_private=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![ruzanv GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzanv&show_icons=true&count_private=true&theme=merko&include_all_commits=true)

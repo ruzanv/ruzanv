@@ -1,7 +1,8 @@
 ![Header](https://github.com/ruzanv/ruzanv/blob/master/assets/logotypeGIT3.png)
 
 ## About me
-I am currently working as a QA Engineer at VK. In parallel with this, I study Python and automation, and constantly improve my knowledge and skills in order to grow as a specialist.
+I am a QA Engineer and my job is to ensure the quality of the
+product. To grow like specialist, I'm learning Python and automation, and constantly expanding my knowledge and skills in the industry.
 
 ## Hard skills
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
@@ -24,17 +25,16 @@ I am currently working as a QA Engineer at VK. In parallel with this, I study Py
 
 ## Job experience
 - Feb. 2022 - Present.
-QA Engineer at VK. Frontend and backend testing of web applications, mobile applications and hybrid desktop applications. Ensuring product quality by improving team processes, introducing new tools and improving the quality of releases. Maintaining test documentation, creating test artifacts, working with requirements. Work in a very large project with Enterprise and SaaS product solutions for business (b2b).
-- Apr. 2018 - Aug. 2019. QA Engineer and Head of QA at GAMBIT. Ensuring the quality of a multiplayer online project in the game and its web part. 
-Building testing processes, managing a testing team on a project.
+QA Engineer at VK. Quality assurance for a large b2b project with Onpremise and Saas solutions. Frontend and backend testing of web, mobile and desktop applications built on the basis of a client-server microservice architecture. Improving the quality of team processes, introducing new techniques and tools. Quality improvement of releases. Maintaining test documentation, creating test artifacts, working with requirements. 
+- Apr. 2018 - Aug. 2019. QA Engineer and Head of QA at GAMBIT. Ensuring the quality of a multiplayer online project. Testing the web part of the project (front&back) and the game component. Building testing processes on a project from scratch, managing a QA team. Maintaining test documentation, working with requirements. Improving the quality of the product and its expansion.
 ## My CV
-- [CV_on_Russian]()
-- [CV_on_English]()
+- [CV_on_Russian](https://drive.google.com/file/d/11-8TOo8rhJCBKlfzlPryY6PMITXqDr22/view?usp=share_link)
+- [CV_on_English](https://drive.google.com/file/d/1WQHY5gksIof3ddv2WvtvVYlXydcdX3ZV/view?usp=share_link)
 
 ## Contacts
 
 ![GoogleMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail)
-- ruzzanv@gmail.com
+- ruzzanv@gmail.com 
 
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 - [@ruzzanv](https://t.me/ruzzanv)

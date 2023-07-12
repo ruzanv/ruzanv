@@ -2,7 +2,7 @@
 
 ## About me
 I am a QA Engineer and my job is to ensure the quality of the
-product. To grow like specialist, I'm learning Python and automation, and constantly expanding my knowledge and skills in the industry.
+product. To grow like specialist, I'm learning PL and automation, and constantly expanding my knowledge and skills in the industry.
 
 ## Hard skills
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
@@ -24,12 +24,11 @@ product. To grow like specialist, I'm learning Python and automation, and consta
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy)
 
 ## Job experience
-- Feb. 2022 - Present.
+- May 2023 - Present.
+QA Engineer at VA Intelligence. Quality assurance of a large web project built on the basis of a client-server microservice architecture in K8S. Front&back testing through various types of testing during development and releases. Participation in the development of the project, creatiing of test artifacts, maintenance of test documentation, task analytics.
+- Feb. 2022 - May 2023.
 QA Engineer at VK. Quality assurance for a large b2b project with Onpremise and Saas solutions. Frontend and backend testing of web, mobile and desktop applications built on the basis of a client-server microservice architecture. Improving the quality of team processes, introducing new techniques and tools. Quality improvement of releases. Maintaining test documentation, creating test artifacts, working with requirements. 
 - Apr. 2018 - Aug. 2019. QA Engineer and Head of QA at GAMBIT. Ensuring the quality of a multiplayer online project. Testing the web part of the project (front&back) and the game component. Building testing processes on a project from scratch, managing a QA team. Maintaining test documentation, working with requirements. Improving the quality of the product and its expansion.
-## My CV
-- [CV_on_Russian](https://drive.google.com/file/d/11-8TOo8rhJCBKlfzlPryY6PMITXqDr22/view?usp=share_link)
-- [CV_on_English](https://drive.google.com/file/d/1WQHY5gksIof3ddv2WvtvVYlXydcdX3ZV/view?usp=share_link)
 
 ## Contacts
 
@@ -37,7 +36,7 @@ QA Engineer at VK. Quality assurance for a large b2b project with Onpremise and 
 - ruzzanv@gmail.com 
 
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
-- [@ruzzanv](https://t.me/ruzzanv)
+- [@ruzan_v](https://t.me/ruzan_v)
 
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)
 - [ruzanv](https://www.linkedin.com/in/ruzanv/)

@@ -21,7 +21,8 @@ product. To grow like specialist, I'm learning PL and automation, and constantly
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana)
 ![Testrail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail)
-![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy)
+![CharlesProxy](https://img.shields.io/badge/CharlesProxy-black)
+![TestIt](https://img.shields.io/badge/TestIt-black)
 
 ## Job experience
 - May 2023 - Present.
